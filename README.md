@@ -16,7 +16,7 @@ I'm <strong>Sayan Chakraborty</strong>, a passionate <strong>DevOps & Cloud Engi
 <h2><strong>🛠️ Skills & Tools</strong></h2>
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="70" style="margin:0 10px;" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="70" style="margin:0 10px;" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" style="margin:0 10px;" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="70" style="margin:0 10px;" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="70" style="margin:0 10px;" />
