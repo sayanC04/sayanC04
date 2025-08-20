@@ -16,54 +16,82 @@ I'm <strong>Sayan Chakraborty</strong>, a passionate <strong>DevOps & Cloud Engi
 <h2><strong>🛠️ Skills & Tools</strong></h2>
 
 <div align="center">
-	<a href="https://aws.amazon.com/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" style="margin:0 10px;" />
-		<br><sub>AWS Cloud</sub>
-	</a>
-	<a href="https://azure.microsoft.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" style="margin:0 10px;" />
-		<br><sub>Azure Cloud</sub>
-	</a>
-	<a href="https://www.terraform.io/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="70" style="margin:0 10px;" />
-		<br><sub>Terraform</sub>
-	</a>
-	<a href="https://www.ansible.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="70" style="margin:0 10px;" />
-		<br><sub>Ansible</sub>
-	</a>
-	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" style="margin:0 10px;" />
-		<br><sub>Docker</sub>
-	</a>
-	<a href="https://kubernetes.io/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="70" style="margin:0 10px;" />
-		<br><sub>Kubernetes</sub>
-	</a>
-	<a href="https://www.jenkins.io/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" style="margin:0 10px;" />
-		<br><sub>Jenkins</sub>
-	</a>
-	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="70" style="margin:0 10px;" />
-		<br><sub>GitLab</sub>
-	</a>
-		<a href="https://git-scm.com/" target="_blank">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" style="margin:0 10px;" />
-			<br><sub>Git</sub>
-		</a>
-	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" style="margin:0 10px;" />
-		<br><sub>Linux</sub>
-	</a>
-	<a href="https://nginx.org/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="70" style="margin:0 10px;" />
-		<br><sub>Nginx</sub>
-	</a>
-	<a href="https://www.python.org/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" style="margin:0 10px;" />
-		<br><sub>Python</sub>
-	</a>
+	<table>
+		<tr>
+			<td align="center">
+				<a href="https://aws.amazon.com/" target="_blank">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" />
+				</a>
+				<br><b>AWS Cloud</b><br><sub>Amazon Web Services for scalable cloud infrastructure.</sub>
+			</td>
+			<td align="center">
+				<a href="https://azure.microsoft.com/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" />
+				</a>
+				<br><b>Azure Cloud</b><br><sub>Microsoft Azure for enterprise cloud solutions.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.terraform.io/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="70" />
+				</a>
+				<br><b>Terraform</b><br><sub>Infrastructure as Code for cloud automation.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.ansible.com/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="70" />
+				</a>
+				<br><b>Ansible</b><br><sub>Configuration management and automation.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.docker.com/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" />
+				</a>
+				<br><b>Docker</b><br><sub>Containerization for scalable deployments.</sub>
+			</td>
+			<td align="center">
+				<a href="https://kubernetes.io/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="70" />
+				</a>
+				<br><b>Kubernetes</b><br><sub>Container orchestration and management.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.jenkins.io/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" />
+				</a>
+				<br><b>Jenkins</b><br><sub>CI/CD automation server.</sub>
+			</td>
+			<td align="center">
+				<a href="https://about.gitlab.com/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="70" />
+				</a>
+				<br><b>GitLab</b><br><sub>DevOps platform for code and CI/CD.</sub>
+			</td>
+			<td align="center">
+				<a href="https://git-scm.com/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" />
+				</a>
+				<br><b>Git</b><br><sub>Distributed version control system.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.linux.org/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" />
+				</a>
+				<br><b>Linux</b><br><sub>Open-source operating system.</sub>
+			</td>
+			<td align="center">
+				<a href="https://nginx.org/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="70" />
+				</a>
+				<br><b>Nginx</b><br><sub>Web server and reverse proxy.</sub>
+			</td>
+			<td align="center">
+				<a href="https://www.python.org/" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" />
+				</a>
+				<br><b>Python</b><br><sub>Programming language for automation and scripting.</sub>
+			</td>
+		</tr>
+	</table>
 </div>
 
 ---
