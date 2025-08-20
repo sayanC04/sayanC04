@@ -1,5 +1,6 @@
 
 <div align="center">
+	<img src="https://raw.githubusercontent.com/sayanC04/sayanC04/main/jeg-photo.jpg" alt="Jeg Photo" width="120" style="border-radius:50%;" />
 	<img src="https://avatars.githubusercontent.com/u/10221255?v=4" alt="Sayan Chakraborty" width="120" style="border-radius:50%;" />
 	<h1>Hi, I'm Sayan Chakraborty 👋</h1>
 	<h3>🚀 DevOps & Cloud Engineer | AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitLab</h3>
